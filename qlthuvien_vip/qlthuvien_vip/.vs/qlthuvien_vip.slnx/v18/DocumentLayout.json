@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\qlthuvien_vip\\qlthuvien_vip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11CE0071-E493-8039-7B04-885C924C917E}|qlthuvien_vip\\qlthuvien_vip.csproj|c:\\users\\admin\\source\\repos\\qlthuvien_vip\\qlthuvien_vip\\qlthuvien_vip\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CE0071-E493-8039-7B04-885C924C917E}|qlthuvien_vip\\qlthuvien_vip.csproj|solutionrelative:qlthuvien_vip\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CE0071-E493-8039-7B04-885C924C917E}|qlthuvien_vip\\qlthuvien_vip.csproj|c:\\users\\admin\\source\\repos\\qlthuvien_vip\\qlthuvien_vip\\qlthuvien_vip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11CE0071-E493-8039-7B04-885C924C917E}|qlthuvien_vip\\qlthuvien_vip.csproj|solutionrelative:qlthuvien_vip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CE0071-E493-8039-7B04-885C924C917E}|qlthuvien_vip\\qlthuvien_vip.csproj|c:\\users\\admin\\source\\repos\\qlthuvien_vip\\qlthuvien_vip\\qlthuvien_vip\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11CE0071-E493-8039-7B04-885C924C917E}|qlthuvien_vip\\qlthuvien_vip.csproj|solutionrelative:qlthuvien_vip\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11CE0071-E493-8039-7B04-885C924C917E}|qlthuvien_vip\\qlthuvien_vip.csproj|c:\\users\\admin\\source\\repos\\qlthuvien_vip\\qlthuvien_vip\\qlthuvien_vip\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11CE0071-E493-8039-7B04-885C924C917E}|qlthuvien_vip\\qlthuvien_vip.csproj|solutionrelative:qlthuvien_vip\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\qlthuvien_vip\\qlthuvien_vip\\qlthuvien_vip\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "qlthuvien_vip\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\qlthuvien_vip\\qlthuvien_vip\\qlthuvien_vip\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "qlthuvien_vip\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwDIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T12:52:27.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\qlthuvien_vip\\qlthuvien_vip\\qlthuvien_vip\\Program.cs",
+              "RelativeDocumentMoniker": "qlthuvien_vip\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\qlthuvien_vip\\qlthuvien_vip\\qlthuvien_vip\\Program.cs",
+              "RelativeToolTip": "qlthuvien_vip\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T12:49:06.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\qlthuvien_vip\\qlthuvien_vip\\qlthuvien_vip\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "qlthuvien_vip\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\qlthuvien_vip\\qlthuvien_vip\\qlthuvien_vip\\appsettings.Development.json",
+              "RelativeToolTip": "qlthuvien_vip\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-16T12:48:59.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\qlthuvien_vip\\qlthuvien_vip\\qlthuvien_vip\\appsettings.json",
+              "RelativeDocumentMoniker": "qlthuvien_vip\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\qlthuvien_vip\\qlthuvien_vip\\qlthuvien_vip\\appsettings.json",
+              "RelativeToolTip": "qlthuvien_vip\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-16T12:48:56.913Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
