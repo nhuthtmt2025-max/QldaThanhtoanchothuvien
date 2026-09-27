@@ -1,0 +1,11 @@
+{
+  "name": "libra-library",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Giao diện hệ thống bán hàng và thanh toán cho thư viện",
+  "scripts": {
+    "start": "node server.cjs",
+    "check": "node --check dist/app.js && node --check dist/admin.js && node --check dist/live.js && node --check dist/api-live.js && node --check dist/api.js && node --check server.cjs",
+    "test": "node --test tests/api.test.cjs tests/live-api.test.cjs"
+  }
+}

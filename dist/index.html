@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Libra — Nhà sách dành cho những tâm hồn ham đọc. Khám phá sách văn học, kỹ năng sống, kinh tế và thiếu nhi."
+    />
+    <title>Libra · Mở thêm thế giới</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%232a493d'/%3E%3Ctext x='9' y='25' fill='%23fff' font-size='26'%3EL%3C/text%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip" href="#main">Chuyển đến nội dung</a>
+    <div class="topbar">
+      <div class="wrap">
+        <span>Một cuốn sách hay. Một thế giới mới.</span
+        ><span>Miễn phí vận chuyển cho đơn từ 300.000₫</span>
+      </div>
+    </div>
+    <header>
+      <div class="wrap header-row">
+        <a class="brand" href="#/" aria-label="Libra trang chủ"
+          >libra<span>✳</span><small>NHÀ SÁCH CỦA BẠN</small></a
+        >
+        <form id="search-form" class="search">
+          <span aria-hidden="true">⌕</span
+          ><input
+            id="search"
+            aria-label="Tìm sách hoặc tác giả"
+            placeholder="Tìm cuốn sách tiếp theo của bạn…"
+            maxlength="120"
+          /><button aria-label="Tìm kiếm">Tìm kiếm</button>
+        </form>
+        <div class="header-actions">
+          <a href="#/yeu-thich" aria-label="Sách yêu thích">♡</a
+          ><a href="#/tai-khoan" id="account-link">Tài khoản</a
+          ><a class="cart-link" href="#/gio-hang"
+            >Giỏ hàng <b id="cart-count">0</b></a
+          >
+        </div>
+      </div>
+      <nav class="wrap">
+        <a href="#/" data-nav="home">Trang chủ</a
+        ><a href="#/sach" data-nav="catalog">Tất cả sách</a
+        ><a href="#/sach?sort=popular">Sách bán chạy</a
+        ><a href="#/sach?sort=newest">Sách mới</a
+        ><a href="#/sach?sale=1">Ưu đãi</a><a href="#/gioi-thieu">Về Libra</a
+        ><a id="admin-link" href="#/quan-tri" hidden>Quản trị</a
+        ><a class="nav-end" href="#/don-hang">Đơn hàng của tôi ↗</a>
+      </nav>
+    </header>
+    <main id="main" tabindex="-1"></main>
+    <footer>
+      <div class="wrap footer-grid">
+        <div>
+          <a class="brand" href="#/">libra<span>✳</span></a>
+          <p>
+            Một góc nhỏ cho những tâm hồn ham đọc.<br />Cùng bạn mở thêm thế
+            giới, mỗi ngày.
+          </p>
+        </div>
+        <div>
+          <h3>Khám phá</h3>
+          <a href="#/sach">Tất cả sách</a
+          ><a href="#/yeu-thich">Sách yêu thích</a
+          ><a href="#/sach?sort=newest">Sách mới</a>
+        </div>
+        <div>
+          <h3>Đồng hành cùng bạn</h3>
+          <a href="#/chinh-sach">Giao hàng & đổi trả</a
+          ><a href="#/don-hang">Đơn hàng của tôi</a
+          ><a href="#/gioi-thieu">Về nhà sách</a>
+        </div>
+        <div>
+          <h3>Đọc sách, theo cách của bạn.</h3>
+          <p>
+            Dành một chút thời gian mỗi ngày<br />cho những trang sách bạn yêu.
+          </p>
+          <a class="footer-cta" href="#/sach">Tìm sách cho mình →</a>
+        </div>
+      </div>
+      <div class="wrap footer-bottom">
+        <span>© 2026 Libra. Made for book lovers.</span
+        ><span id="demo-label">Bản trải nghiệm • Dữ liệu minh họa</span>
+      </div>
+    </footer>
+    <div id="toast" role="status" aria-live="polite"></div>
+    <script src="config.js"></script>
+    <script src="data.js"></script>
+    <script src="api.js"></script><script src="api-live.js"></script>
+    <script src="app.js"></script>
+    <script src="admin.js"></script><script src="live.js"></script>
+  </body>
+</html>
