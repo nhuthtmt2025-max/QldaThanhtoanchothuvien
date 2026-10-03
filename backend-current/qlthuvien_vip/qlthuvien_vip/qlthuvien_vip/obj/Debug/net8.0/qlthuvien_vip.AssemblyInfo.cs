@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("qlthuvien_vip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dabb9b45fba6f7a87eacb585e43c2496da78877")]
 [assembly: System.Reflection.AssemblyProductAttribute("qlthuvien_vip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("qlthuvien_vip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

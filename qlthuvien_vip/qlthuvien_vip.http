@@ -1,0 +1,6 @@
+@qlthuvien_vip_HostAddress = http://localhost:5160
+
+GET {{qlthuvien_vip_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
